@@ -1,7 +1,11 @@
 # WorldWind(NASA地球风)
  官网地址：https://worldwind.arc.nasa.gov/
  
-* 工程依赖的jar包：               
+ 1.全球海流：https://earth.nullschool.net/#current/ocean/surface/currents
+ 
+ 2.全球海浪：https://earth.nullschool.net/#current/ocean/primary/waves
+ 
+* 工程依赖的jar包：              
   gluegen-rt-natives-windows-amd64.jar      
   gluegen-rt-natives-windows-i586.jar         
   gluegen-rt.jar         
