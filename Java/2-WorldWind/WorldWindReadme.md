@@ -4,7 +4,7 @@
  2.全球海浪：https://earth.nullschool.net/#current/ocean/primary/waves
 
  * WebGL：
- <img src="http://images.cnblogs.com/cnblogs_com/wp5719/831982/o_earth.png"  />
+ <img src="http://images.cnblogs.com/cnblogs_com/wp5719/831982/o_earth1.png"  />
  
 WorldWind 官网地址：https://worldwind.arc.nasa.gov/
 
