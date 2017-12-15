@@ -1,12 +1,11 @@
 # WebGL(全球海流) 和 WorldWind(NASA地球风)
- 1.全球海流：https://earth.nullschool.net/#current/ocean/surface/currents
- 
- 2.全球海浪：https://earth.nullschool.net/#current/ocean/primary/waves
+
+1.全球海流-海浪：https://earth.nullschool.net/
 
  * WebGL：
  <img src="http://images.cnblogs.com/cnblogs_com/wp5719/831982/o_earth1.png"  />
  
-WorldWind 官网地址：https://worldwind.arc.nasa.gov/
+2.WorldWind 官网地址：https://worldwind.arc.nasa.gov/
 
 * 工程依赖的jar包：              
   gluegen-rt-natives-windows-amd64.jar      
